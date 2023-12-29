@@ -3,7 +3,6 @@
 My name is Xosé and I currently work as a SRE / DevOps
 
 __Technical Skills__
-___
 __Git, Go, Python, Powershell, Windows Administration, Web Services, Arch Linux, Debian, SQL Server, SQLite, Azure, HTTP/2, PowerBI, Technical Writing, Continuous Integration, Continuous Delivery__
 
 <!--
