@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 My name is Xosé and I currently work as a SRE / DevOps
-
-### __TECHNICAL SKILLS__ ###
 ___
-__Git, Go, Python, Powershell, Windows Administration, Web Services, Arch Linux, Debian, SQL Server, SQLite, Azure, HTTP/2, PowerBI, Technical Writing, Continuous Integration, Continuous Delivery__
+Git, Go, Python, Powershell, Windows Administration, Web Services, Arch Linux, Debian, SQL Server, SQLite, Azure, HTTP/2, PowerBI, Technical Writing, Continuous Integration, Continuous Delivery
 
 <!--
 **keyserxose/keyserxose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
