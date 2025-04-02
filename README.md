@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Xosé and I currently work as a SRE / DevOps
+My name is Xosé and I currently work as a DevOps
 
 __Technical Skills__
 
