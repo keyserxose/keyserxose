@@ -4,7 +4,7 @@ My name is Xosé and I currently work as a DevOps
 
 __Technical Skills__
 
-_Git, Go, Python, Powershell, Bash, DevOps, Docker, Web Services, Arch Linux, Debian, T-SQL, SQLite, Azure, HTTP/2, PowerBI, Technical Writing, Continuous Integration, Continuous Delivery, ActiveMQ_
+_Git, Go, Python, Powershell, Bash, DevOps, Docker, Arch Linux, Debian, Windows Server, SQL, Azure, Hetzner, Terraform, Ansible, CI/CD, ActiveMQ, Jenkins_
 
 <!--
 **keyserxose/keyserxose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
